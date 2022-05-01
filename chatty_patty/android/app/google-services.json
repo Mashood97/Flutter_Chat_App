@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "527602492215",
+    "project_id": "chatty-patty-8083e",
+    "storage_bucket": "chatty-patty-8083e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527602492215:android:89d844b2ef55f6fdf8f0b2",
+        "android_client_info": {
+          "package_name": "com.example.chatty_patty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527602492215-lppfu2pk95s233uktap0ip23k7ub3l97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJHZEmdPpXUWYtkNMhzC6q9cEMrnUqz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527602492215-lppfu2pk95s233uktap0ip23k7ub3l97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527602492215-4s3ho436egral12kapf1n197v0rqvhfv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chattyPatty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
